@@ -5,7 +5,7 @@
 .topic-topper ul.topic-list {
     margin: 0;
     padding: 0;
-    /*padding-left: 150px;*/
+    padding-left: 450px !important;
 }
 .topic-topper ul.topic-list li {
     margin: 0;
