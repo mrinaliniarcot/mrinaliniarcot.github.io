@@ -1627,7 +1627,7 @@ footer .info li {
     width: 10px;
     height: 10px;
     margin: 25px auto;
-    background: #000000;
+    background: #298A08;
     -moz-border-radius: 50px;
     -moz-animation: bubblingG 1.3s infinite alternate;
     -webkit-border-radius: 50px;
@@ -1668,7 +1668,7 @@ footer .info li {
 0% {
     width: 10px;
     height: 10px;
-    background-color:#000000;
+    background-color:#298A08;
     -moz-transform: translateY(0);
 }
 
@@ -1685,7 +1685,7 @@ footer .info li {
 0% {
     width: 10px;
     height: 10px;
-    background-color:#000000;
+    background-color:#298A08;
     -webkit-transform: translateY(0);
 }
 
@@ -1702,7 +1702,7 @@ footer .info li {
 0% {
     width: 10px;
     height: 10px;
-    background-color:#000000;
+    background-color:#298A08;
     -ms-transform: translateY(0);
 }
 
@@ -1719,7 +1719,7 @@ footer .info li {
 0% {
     width: 10px;
     height: 10px;
-    background-color:#000000;
+    background-color:#298A08;
     -o-transform: translateY(0);
 }
 
@@ -1736,7 +1736,7 @@ footer .info li {
 0% {
     width: 10px;
     height: 10px;
-    background-color:#000000;
+    background-color:#298A08;
     transform: translateY(0);
 }
 
