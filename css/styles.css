@@ -105,6 +105,11 @@ a.mt-button {
     text-transform:uppercase;
     display:inline-block;   
 }
+@media(max-width: 320px){
+   a.mt-button {
+    font-size:small !important;
+   }
+}
 .small {
     font-size:12px;
     line-height:14px;
